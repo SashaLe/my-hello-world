@@ -1,3 +1,3 @@
 # my-hello-world
-The first test project
+The 1st test project
 a few words about myself...
