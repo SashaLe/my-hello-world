@@ -1,2 +1,3 @@
 # my-hello-world
 The first test project
+a few words about myself...
